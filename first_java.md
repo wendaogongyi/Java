@@ -1,4 +1,4 @@
-# Java World
+# 1. Java World
 
 write once, run anywhere
 
@@ -27,4 +27,12 @@ while(boolean=true), do while, for
 ## 3. condition
 
 if, else
+
+
+
+# 2. Object
+
+instance variable, methods
+
+class, object
 

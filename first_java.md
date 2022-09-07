@@ -71,9 +71,9 @@ class DogTestDrive{
 
 - **main()**
 
-​		test the class
+	test the class
 
-​		launch the program
+	launch the program
 
 - **some things to know**
 
